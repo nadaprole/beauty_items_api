@@ -1,0 +1,32 @@
+[
+    {
+        "product_name": "Acrylic gel - Jackie Signature",
+        "description": "INGREDIENTS: Methacrylate polymer, Benzoyl peroxide, Pigment, May contain glitter, Size: 4 oz",
+        "image": "https://cdn.shoplightspeed.com/shops/640885/files/50562927/350x350x2/image.jpg",
+        "product_id": "1"
+    },
+    {
+        "product_name": "Lamour clear nail tip",
+        "description": "Lamour clear nail tip",
+        "image": "https://cdn.shoplightspeed.com/shops/640885/files/43692394/350x350x2/image.jpg",
+        "product_id": "2"
+    },
+    {
+        "product_name": "Chisel Matching Gel",
+        "description": "Lacquer duo set",
+        "image": "https://cdn.shoplightspeed.com/shops/640885/files/39531187/350x350x2/image.jpg",
+        "product_id": "3"
+    },
+    {
+        "product_name": "Nail Glitter",
+        "description": "Nail Loose 3D Glitter",
+        "image": "https://cdn.shoplightspeed.com/shops/640885/files/47165210/350x350x2/image.jpg",
+        "product_id": "4"
+    },
+    {
+        "product_name": "Mia Secret Strong Glue",
+        "description": "Mia Secret, Strong Jet Nail Glue",
+        "image": "https://cdn.shoplightspeed.com/shops/640885/files/50631688/350x350x2/image.jpg",
+        "product_id": "5"
+    }
+]
